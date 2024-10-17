@@ -24,7 +24,7 @@ button{
 body{
     background-image: url("../assets/img/bg-spruce.webp");
     background-position: center;
-    background-size: 10%;
+    background-size: 12vh;
 }
 button{
     padding: 0;
